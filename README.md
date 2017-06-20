@@ -7,6 +7,8 @@ php-restapi is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered
   - mysqli powered
 
 # Instructions
+  
+  - insert your paramaters here -> $link = mysqli_connect('localhost', 'user', 'pass', 'dbname'); 
 
   - Save this file as “index.php” in your (Apache) document root and call it using:
     

@@ -1,6 +1,6 @@
 # php-restapi
 
-php-restapi is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+php-restapi is a simple php file with rest API included
 
   - one file
   - very simple
